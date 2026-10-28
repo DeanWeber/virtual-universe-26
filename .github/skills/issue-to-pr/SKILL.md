@@ -14,7 +14,7 @@ same `gh` commands you ran by hand in Section 1.
    write access. Origin may still be the event repository. Use
    `GH_REPO=<verified-owner/repo>` for every GitHub CLI operation and push only to
    the explicitly verified fork remote, never implicitly to origin.
-   - If no fork destination is ready, stop before edits or resource creation.
+    - If no fork destination is ready, stop before edits or resource creation.
      Offer to prepare it in this same checkout with approval, preserving origin,
      other remotes, and local work. Do not open or switch sessions.
 2. Pick the issue. Use the number you were given, or list open issues and ask:
